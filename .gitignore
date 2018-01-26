@@ -8,7 +8,6 @@
 bin/
 build/
 target/
-pom.xml
 *.sublime-*
 .mvn
 test/
